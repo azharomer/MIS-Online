@@ -13,7 +13,7 @@
 //test azhar 
 $server_dir = "../";
 ////kkkkk
-
+// ftfygughonoi;k
 require $server_dir.'scripts/config.inc.php';
 require $server_dir.'scripts/wampserver.lib.php';
 
